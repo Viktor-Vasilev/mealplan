@@ -1,0 +1,8 @@
+
+{
+  "name": "Daily Menu & Meal Tracker",
+  "description": "A collaborative meal selection tool where admins upload daily menus and colleagues select their favorite meals, with real-time analytics on choices.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
